@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/jose-carlos-pacheco-sanchezisc](https://www.linkedin.com/in/victor-zaid-garcia/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-zaid-garcia/) 
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
